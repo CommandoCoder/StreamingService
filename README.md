@@ -1,7 +1,9 @@
 StreamingService
 ================
 
-A background audio streaming service for Android.
+A background audio streaming service for Android created by Commando Coder Ltd. 
+
+http://www.commandocoder.com
 
 This is an Android Service based on the aacdecoder project of Spoledge.
 
